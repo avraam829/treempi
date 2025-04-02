@@ -1,1 +1,9 @@
 /target
+**/*.rs.bk
+**/*.swp
+Cargo.lock
+*.log
+frames/
+*.gif
+*.mp4
+/target
